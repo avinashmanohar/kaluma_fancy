@@ -1,0 +1,11 @@
+{
+  "name": "fancy",
+  "description": "",
+  "dependencies": {
+    "@niklauslee/ssd1306-i2c": "1.0.0",
+    "@niklauslee/font-lee-sans": "1.0.0"
+  },
+  "bundle": {
+    "mode": "development"
+  }
+}
